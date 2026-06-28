@@ -1,4 +1,4 @@
-# 
+# Exclusive Advanced SystemCare extensions for Mac OS | Instant Advanced SystemCare extensions for PC Windows. Featuring batch processing and command line support — optimized for maximum performance on every platform.
 
 
 
